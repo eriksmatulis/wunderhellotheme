@@ -7,7 +7,7 @@
     </head>
     <body class="bg-indigo-200">
     <?php get_header(); ?>
-    <div class="m-auto h-90vh w-9/10 bg-purple-200 pb-10 pt-5 text-center">
+    <div class="m-auto h-90vh w-9/10 bg-purple-200 pb-10 pt-5 text-center border-1 border-b-indigo-500">
         <h2 class="text-orange-950 text-3xl pb-6">
             <?php the_title(); ?>
         </h2>
